@@ -15,7 +15,7 @@
 
 <h3 align="center">💕 This is a Simple Calculator made in Flutter 💕</h3>
 
-[<h4 align="center"> 📌 Install 'package:math_expressions/math_expressions.dart' Package from here by following the guidelines(This is necessary to run this app) </h4>](https://pub.dev/packages/math_expressions)
+[<h4 align="center"> 📌 Install `package:math_expressions/math_expressions.dart` Package from here by following the guidelines(This is necessary to run this app) </h4>](https://pub.dev/packages/math_expressions)
 
 ### [<p align="center">💚 Click here to see Project Demo video 💚</p>](https://youtu.be/9Id-VMoc12E)
 
