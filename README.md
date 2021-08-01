@@ -19,7 +19,7 @@
 
 ### [<p align="center">💚 Click here to see Project Demo video 💚</p>](https://youtu.be/9Id-VMoc12E)
 
-<h3 align="center">🙏 Show 💙 by Starring this Repo 🙏</h3>
+<h3 align="center">🙏 Show 💕 by Starring this Repo 🙏</h3>
 
 ## Getting Started
 
